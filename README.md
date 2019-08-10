@@ -1,2 +1,2 @@
 # ocr_try
-Tried OCR using tesseract and pillow on set of images.
+Tried building a OCR using tesseract and pillow on set of images.
